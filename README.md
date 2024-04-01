@@ -17,7 +17,7 @@ I'm a SAM/HAM and Automation Engineer by day and a Web, App and Game Developer b
 -->
 ## 📝 Blog
 
-I also write about my experiences and learnings in my Website (https://mr-talukdar.web.app). Here are some of my recent blog posts:
+I also write about my experiences and learnings in my Website (https://rahultalukdar.in). Here are some of my recent blog posts:
 <!--
 - [Blog Post 1](https://[yourblogname].com/post-1): A [brief description of the post]
 - [Blog Post 2](https://[yourblogname].com/post-2): A [brief description of the post]
