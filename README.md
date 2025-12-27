@@ -1,55 +1,91 @@
-# Namaste, I'm Rahul Talukdar! 👋🏼
+# Namaste, I'm Rahul Talukdar 👋🏼  
+### AI-Ready Web Engineer • Systems Builder • Product Thinker
 
-I'm a SAM/HAM and Automation Engineer by day and a Web, App and Game Developer by night. I love building things and experimenting with new technologies. When I'm not coding, you can find me in some remote place with my Motorcycle, yes I'm a biker too.
+I build **modern web systems** that are scalable, intelligent, and production-ready.  
+By day I work as an **Automation Engineer**, by night I design and ship **next-gen web platforms, developer tools, and AI-powered products**.
 
-## 🚀 Technologies and Tools
+I’m deeply interested in the future of software — where **AI, Web, Cloud and System Design** converge.
 
-- Game Development using Unity 3D and Unreal.
-- XR Development using Unity and Unreal
-- Full-Stack MERN Development
-- Azure AD Engineering and CloudOps
-<!--
-## 🌟 Projects
+When I’m not coding, I’m probably riding my motorcycle through places with zero signal and full clarity 🏍️
 
-- [Project 1](https://github.com/[username]/[repo-name]): A [brief description of the project]
-- [Project 2](https://github.com/[username]/[repo-name]): A [brief description of the project]
-- [Project 3](https://github.com/[username]/[repo-name]): A [brief description of the project]
--->
-## 📝 Blog
+---
 
-I also write about my experiences and learnings in my Website (https://rahultalukdar.in). Here are some of my recent blog posts:
-<!--
-- [Blog Post 1](https://[yourblogname].com/post-1): A [brief description of the post]
-- [Blog Post 2](https://[yourblogname].com/post-2): A [brief description of the post]
-- [Blog Post 3](https://[yourblogname].com/post-3): A [brief description of the post]
--->
-## 📫 Contact Me
+## 🧭 Current Focus
 
-You can reach me on [Instagram](https://www.instagram.com/uncaughtexception/) or [LinkedIn](https://www.linkedin.com/in/mr-talukdar).
+- Building **Apex** — a governance & coordination platform for biking communities  
+  *(Next.js 15, Supabase, NextAuth, Domain-Driven Design)*
+- Architecting **AI-assisted product features**
+- Studying **System Design & Distributed Systems**
+- Exploring **WebAssembly** and performance-first engineering
+- Designing **secure, scalable auth & identity systems**
+- Shipping production apps with **ISR, Edge & Server Components**
 
-## 🎨 Fun Fact
+---
 
-A fun fact about people with ADHD is that they often have a "hyperfocus" ability, which means that they can become intensely focused and absorbed in a task that they find interesting or enjoyable, often to the point of losing track of time. This can be a great asset when harnessed effectively, as it can lead to high levels of productivity and creativity. However, it can also be a challenge when it comes to completing less interesting or less enjoyable tasks.
+## 🧠 Core Skill Stack
 
-## 🏆 Github Stats
+### ⚛️ Frontend Engineering
+- React, Next.js (App Router), TypeScript
+- TailwindCSS, UI Systems, Component Architecture
+- Performance optimization, rendering strategies, SEO
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=mr-talukdar&count_private=true&show_icons=true)](https://github.com/[username])
+### 🧩 Backend & Systems
+- Node.js, API Design, Domain Logic, Modular Architecture
+- PostgreSQL, Supabase, Row-Level Security
+- Authentication & Authorization flows
 
+### 🧬 AI-Ready Development
+- LLM-powered features & intelligent workflows
+- Prompt engineering & agentic design patterns
+- AI integration into real products
 
-<!--
-**mr-talukdar/mr-talukdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☁️ Cloud & DevOps
+- Azure AD & Identity Engineering
+- CloudOps, CI/CD, Vercel
+- Edge Functions, ISR, Server Components
 
-Here are some ideas to get you started:
+### 🕹️ Extended Reality & Game Dev
+- Unity 3D, Unreal Engine
+- XR development pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
+## 🛠️ What I Care About
 
+- System design & scalability  
+- Developer experience  
+- Clean architecture  
+- Security-first engineering  
+- Building products that *actually* ship
 
--->
+---
+
+## 📝 Writing & Knowledge
+
+I document my journey, projects & breakdowns at  
+🌐 **https://rahultalukdar.in**
+
+---
+
+## 📡 Let’s Connect
+
+- Instagram: https://www.instagram.com/uncaughtexception/  
+- LinkedIn: https://www.linkedin.com/in/mr-talukdar
+
+---
+
+## 🧬 Fun Fact
+
+My brain runs on ADHD hyperfocus — when something clicks, I can build for hours without noticing time exist.  
+Perfect for deep engineering problems and product design.
+
+---
+
+## 🏆 GitHub Stats
+
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-talukdar&count_private=true&show_icons=true&theme=tokyonight)
+
+---
+
+> *Engineering is not about writing code.  
+> It’s about designing systems that survive reality.*
