@@ -83,7 +83,7 @@ Perfect for deep engineering problems and product design.
 
 ## 🏆 GitHub Stats
 
-[![Rahul's Stats](https://github-readme-stats.vercel.app/api?username=mr-talukdar&count_private=true&show_icons=true)](https://github.com/[username])
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mr-talukdar?cardType=level&theme=gotham&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 
