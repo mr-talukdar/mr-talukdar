@@ -83,7 +83,7 @@ Perfect for deep engineering problems and product design.
 
 ## 🏆 GitHub Stats
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mr-talukdar&count_private=true&show_icons=true&theme=tokyonight)
+[![Rahul's Stats](https://github-readme-stats.vercel.app/api?username=mr-talukdar&count_private=true&show_icons=true)](https://github.com/[username])
 
 ---
 
