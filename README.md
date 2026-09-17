@@ -115,7 +115,7 @@ I document my journey, projects & technical breakdowns at
 
 ### 🎧 currently debugging to
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=muzkj37rlroouvoje2md7nxyn&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=false&bar_color=53b14f&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=muzkj37rlroouvoje2md7nxyn&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=muzkj37rlroouvoje2md7nxyn&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=muzkj37rlroouvoje2md7nxyn&redirect=true)
 
 ---
 
